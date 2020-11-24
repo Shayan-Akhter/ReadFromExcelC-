@@ -1,0 +1,17 @@
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.csprojAssemblyReference.cache
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.Form1.resources
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.Properties.Resources.resources
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.csproj.GenerateResource.cache
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.csproj.CoreCompileInputs.cache
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ReadFromExcelReadSalesQuotation.exe.config
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ReadFromExcelReadSalesQuotation.exe
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ReadFromExcelReadSalesQuotation.pdb
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.exe
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.pdb
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ExcelDataReader.dll
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ExcelDataReader.pdb
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ExcelDataReader.xml
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\TDP-70\Desktop\ReadFromExcelReadSalesQuotation\ReadFromExcelReadSalesQuotation\obj\Debug\ReadFromExcelReadSalesQuotation.csproj.CopyComplete
